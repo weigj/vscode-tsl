@@ -117,7 +117,8 @@ VS Code 的 TSL (Tinysoft Statistical Analysis Language) 语言支持扩展，�
 
 ## 反馈与支持
 
-如有问题或建议，请发邮件到：support@mytsl.cn
+如有问题或建议，请提交到 GitHub Issues：
+https://github.com/tsl-lang/vscode-tsl/issues
 
 ---
 
